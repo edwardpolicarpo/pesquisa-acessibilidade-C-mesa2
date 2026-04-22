@@ -1,10 +1,10 @@
-# ⚖️ Investigação de Acessibilidade Digital: Dimensão C (Legislação)
+# Investigação de Acessibilidade Digital: Dimensão C (Legislação)
 
 *Escola de Tecnologia — Instituto J&F (DAD 2026)*
 
 ---
 
-## 📌 Sobre a pesquisa
+## Sobre a pesquisa
 
 Esta investigação analisa o **arcabouço jurídico da acessibilidade digital**, com foco na seguinte questão:
 
@@ -14,7 +14,7 @@ O objetivo é compreender não apenas a existência das normas, mas também seus
 
 ---
 
-## 🔍 Principais achados
+## Principais achados
 
 * **Obrigatoriedade legal no Brasil**
   A **Lei Brasileira de Inclusão (Lei nº 13.146/2015)**, especialmente em seu Art. 63, estabelece que **sites de empresas com atuação no Brasil devem ser acessíveis a pessoas com deficiência**, prevendo sanções em caso de descumprimento.
@@ -30,7 +30,7 @@ O objetivo é compreender não apenas a existência das normas, mas também seus
 
 ---
 
-## 📜 Linha do tempo da legislação
+## Linha do tempo da legislação
 
 |    Ano   | Marco Legal           | Descrição e Impacto                                                                                   |
 | :------: | :-------------------- | :---------------------------------------------------------------------------------------------------- |
@@ -42,7 +42,7 @@ O objetivo é compreender não apenas a existência das normas, mas também seus
 
 ---
 
-## 💻 Impactos para desenvolvedores
+## Impactos para desenvolvedores
 
 A conformidade com a legislação depende diretamente de práticas técnicas adotadas durante o desenvolvimento. Destacam-se três medidas essenciais:
 
@@ -81,7 +81,7 @@ A ausência de controle de foco compromete o uso por tecnologias assistivas, con
 
 ---
 
-## ⚠️ Considerações finais
+## Considerações finais
 
 A acessibilidade digital deixou de ser apenas uma recomendação técnica e passou a ser uma **exigência legal**.
 
@@ -95,7 +95,7 @@ Dessa forma, a adoção de práticas acessíveis deve ser tratada como parte int
 
 ---
 
-## 📚 Referências
+## Referências
 
 1. BRASIL. Lei nº 13.146/2015 (Lei Brasileira de Inclusão). Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm
 2. GOVERNO FEDERAL. Modelo de Acessibilidade em Governo Eletrônico (e-MAG). Disponível em: https://emag.governoeletronico.gov.br/
