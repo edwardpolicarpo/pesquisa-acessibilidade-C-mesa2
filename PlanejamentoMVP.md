@@ -1,7 +1,3 @@
-Aqui está a documentação do escopo e a divisão de tarefas estruturada em Markdown para o projeto da Loja de Action Figures:
-
----
-
 # 📝 Documento de Escopo: Loja de Action Figures
 
 Este documento detalha as responsabilidades e a divisão de tarefas da equipe para as próximas etapas de desenvolvimento do e-commerce de Action Figures.
